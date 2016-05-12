@@ -1,18 +1,8 @@
-# PHP Package Boilerplate
+# Hello World
+Write a program that greets the user by name, or by saying "Hello, World!" if no name is given.
 
-A simple boilerplate for developing PHP packages which is mainly focused on automated TDD. 
+"Hello, World!" is the traditional first program for beginning programming in a new language.
 
-## Getting Started
+# Source
 
-With [Composer](http://getcomposer.org/) and [Node.js](http://nodejs.org/) installed, run:
-
-```
-composer install
-npm install
-```
-
-## Running the tests
-
-```
-gulp tdd
-```
+[exercism.io](http://exercism.io/exercises/php/hamming/readme)
